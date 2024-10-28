@@ -1,5 +1,7 @@
 # Viral 🌍🎮
 
+  <img src="https://www.viralmap.site/_next/image?url=%2Flogo.png&w=640&q=75" alt="Home Page" width="400">
+
 **Viral** is an interactive, AI-powered, location-based game that encourages players to explore their surroundings, complete unique quests, and engage in real-world adventures. This repository contains the source code for the **Viral** game website, where players can learn about the game, download it, and connect with the Viral community.
 
 > **Note**: The main game is developed in Unity and is not open source.
