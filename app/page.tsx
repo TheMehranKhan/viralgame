@@ -119,5 +119,16 @@ export default async function Home() {
   );
 }
 
-const features = [
+// Define the feature type
+interface Feature {
+  title: string;
+  description: string;
+  demo: React.ReactNode;
+  large: boolean;
+}
+
+// Type the `features` array with the `Feature` type
+const features: Feature[] = [
+  // Add your features here, e.g.,
+  // { title: "Feature 1", description: "Description of feature 1", demo: <DemoComponent />, large: false }
 ];
