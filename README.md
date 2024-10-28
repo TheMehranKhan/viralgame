@@ -15,8 +15,8 @@
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="https://viralmap.site/screenshots/home.png" alt="Home Page" width="400">
-  <img src="https://viralmap.site/screenshots/quests.png" alt="Quests Page" width="400">
+  <img src="https://themehrankhan.storage.c2.liara.space/2024-10-28%2016.44.01.jpg" alt="Home Page" width="400">
+  <img src="https://themehrankhan.storage.c2.liara.space/photo_2024-10-28%2016.44.39.jpeg" alt="Quests Page" width="400">
 </p>
 
 ## 🌐 Live Demo
