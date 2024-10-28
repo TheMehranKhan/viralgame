@@ -32,7 +32,7 @@ export default async function Home() {
               alt="Viral logo"
               width="500"
               height="500"
-              className=""a
+              className=""
             ></Image>
         <a
           href="https://twitter.com/viralgame"

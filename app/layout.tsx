@@ -8,10 +8,10 @@ import Navbar from "@/components/layout/navbar";
 import { ClerkProvider } from "@clerk/nextjs";
 
 export const metadata = {
-  title: "Precedent - Building blocks for your Next.js project",
+  title: "Viral - Explore the Real World, Unlock Challenges, Earn Rewards",
   description:
-    "Precedent is the all-in-one solution for your Next.js project. It includes a design system, authentication, analytics, and more.",
-  metadataBase: new URL("https://precedent.dev"),
+    "Viral is a unique, AI-powered adventure game that turns the real world into your playground. Discover challenges, level up, and earn rewards in an immersive location-based experience.",
+  metadataBase: new URL("https://viralgame.com"),
 };
 
 export default async function RootLayout({
